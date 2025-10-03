@@ -19,7 +19,7 @@ const projects = [
         image: "/projects/port.png",
         tags: ["JavaScript", "React", "Tailwind"],
         demoUrl: "#",
-        GithubUrl: "#"
+        GithubUrl: "https://github.com/vkp7782/ReactPortpolio"
     },
     {
         id: 3,
