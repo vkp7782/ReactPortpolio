@@ -15,10 +15,10 @@ export const ContactSection = () => {
 
         try {
             await emailjs.sendForm(
-                "service_ez0ia7r",    // ⚡ apna service id
-                "template_nei8sxw",   // ⚡ apna template id
+                "service_ez0ia7r",    //  service id
+                "template_nei8sxw",   //apna template id
                 formRef.current,
-                "ewWsmo8FMxwfrohXr"     // ⚡ apna public key
+                "ewWsmo8FMxwfrohXr"     // apna public key
             );
 
             addToast({
@@ -95,10 +95,10 @@ export const ContactSection = () => {
                         <div className="pt-8">
                             <h4 className="font-medium mb-4 text-center md:text-left">Connect With Me</h4>
                             <div className="flex justify-center md:justify-start space-x-6 text-2xl">
-                                <a href="https://linkedin.com" target="_blank" className="hover:text-primary"><Linkedin /></a>
-                                <a href="https://instagram.com" target="_blank" className="hover:text-primary"><Instagram /></a>
+                                <a href="https://www.linkedin.com/in/vishalpandey7782" target="_blank" className="hover:text-primary"><Linkedin /></a>
+                                <a href="https://www.instagram.com/im._.v._.p?igsh=MWsxdjN5OWpqdjE3eQ==" target="_blank" className="hover:text-primary"><Instagram /></a>
                                 <a href="https://facebook.com" target="_blank" className="hover:text-primary"><Facebook /></a>
-                                <a href="https://github.com" target="_blank" className="hover:text-primary"><GithubIcon /></a>
+                                <a href="https://github.com/vkp7782" target="_blank" className="hover:text-primary"><GithubIcon /></a>
                             </div>
                         </div>
                     </div>
