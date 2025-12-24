@@ -44,7 +44,7 @@ export const AboutMe = () => {
                                 Get In Touch
                             </a>
                             <a
-                                href="/portfolio_resume.pdf"
+                                href="/vishal_kr_pandey_resume_i2k2.pdf"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
