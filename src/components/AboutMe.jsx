@@ -16,7 +16,7 @@ export const AboutMe = () => {
                         {/* Profile Image Always Center */}
                         <div className="flex justify-center">
                             <img
-                                src="/projects/profile1.jpg"
+                                src="/projects/profile.jpg"
                                 alt="Profile"
                                 className="w-32 h-32 md:w-48 md:h-48 lg:w-60 lg:h-60 rounded-full object-cover shadow-lg border-4 border-primary/20 transition-transform duration-500 hover:scale-105 hover:shadow-2xl hover:border-primary"
                             />
