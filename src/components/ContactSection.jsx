@@ -60,8 +60,8 @@ export const ContactSection = () => {
                                 </div>
                                 <div className="flex flex-col">
                                     <h4 className="font-medium pr-10">Email</h4>
-                                    <a href="mailto:Vishalpandey0001@gmail.com" className="text-muted-foreground hover:text-primary transition-col">
-                                        Vishalpandey0001@gmail.com
+                                    <a href="mailto:vishalpandey00018@gmail.com" className="text-muted-foreground hover:text-primary transition-col">
+                                        vishalpandey00018@gmail.com
                                     </a>
                                 </div>
                             </div>
